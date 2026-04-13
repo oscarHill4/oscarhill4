@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🚀 Mi Proyecto
 
-<!--
-**oscarHill4/oscarhill4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![status](https://img.shields.io/badge/status-active-brightgreen)
+![license](https://img.shields.io/badge/license-MIT-blue)
 
-Here are some ideas to get you started:
+✨ Bienvenido/a a mi GitHub.  
+Este proyecto fue creado para practicar desarrollo y control de versiones con Git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Descripción
+Este proyecto es una aplicación lo que busca es brindar un repositorio para practicar control de versiones.
+
+---
+
+## ⚙️ Tecnologías usadas
+- C
+- C++
+- Java
+- Python
+- JavaScript
+- HTML
+- CSS
+- Node
+- SQL
+
+---
