@@ -1,27 +1,47 @@
-# 🚀 Mi Proyecto
+# 👨‍💻 Oscar Hill
 
-![status](https://img.shields.io/badge/status-active-brightgreen)
-![license](https://img.shields.io/badge/license-MIT-blue)
-
-✨ Bienvenido/a a mi GitHub.  
-Este proyecto fue creado para practicar desarrollo y control de versiones con Git.
+Ingeniero en Desarrollo de Software | Apasionado por la programación y la construcción de soluciones tecnológicas.
 
 ---
 
-## 🧠 Descripción
-Este proyecto es una aplicación lo que busca es brindar un repositorio para practicar control de versiones.
+## 🚀 Sobre mí
+
+Soy estudiante de Ingeniería en Desarrollo de Software, enfocado en el aprendizaje continuo y la construcción de proyectos prácticos.
+
+Me interesa el desarrollo backend, la lógica de programación y el trabajo con tecnologías modernas.
 
 ---
 
-## ⚙️ Tecnologías usadas
-- C
-- C++
-- Java
-- Python
-- JavaScript
-- HTML
-- CSS
-- Node
-- SQL
+## 🧠 Habilidades
+
+- 💻 Lenguajes: C, C++, Java, Python, JavaScript
+- 🌐 Desarrollo web: HTML, CSS, Node.js
+- 🗄️ Bases de datos: SQL
+- 🔧 Herramientas: Git, GitHub, VScode
 
 ---
+
+## 📌 Intereses
+
+- Desarrollo de software
+- Arquitectura de sistemas
+- Control de versiones y trabajo en equipo
+- Resolución de problemas
+
+---
+
+## 📈 Actualmente
+
+- 📚 Aprendiendo mejores prácticas de desarrollo
+- 👨‍💻 Trabajando en proyectos académicos y personales
+- 🚀 Mejorando habilidades en Git y colaboración
+
+---
+
+## 📫 Contacto
+
+- GitHub: [@oscarHill4](https://github.com/oscarHill4)
+
+---
+
+⭐ “Construyendo habilidades, un commit a la vez.”
